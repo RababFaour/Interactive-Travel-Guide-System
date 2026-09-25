@@ -69,7 +69,7 @@ Some features that could be added later are:
 ## System Design
 
 ### Use Case Diagram
-![Use Case Diagram](use-case-diagram.jpg)
+![Use Case Diagram](usecase-diagram.jpg)
 
 ### UML Class Diagram
 ![Class Diagram](class-diagram.jpg)
