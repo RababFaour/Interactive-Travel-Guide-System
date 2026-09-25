@@ -70,6 +70,8 @@ Some features that could be added later are:
 
 ### Use Case Diagram
 ![Use Case Diagram](usecase-diagram.jpg)
+This diagram shows the main interactions between the user and the system, such as searching destinations, setting preferences, generating a travel plan, and managing content.
 
 ### UML Class Diagram
 ![Class Diagram](class-diagram.jpg)
+This diagram represents the main entities of the system and their relationships, including users, destinations, travel plans, places, hotels, restaurants, and activities.
