@@ -52,3 +52,24 @@ Some features that could be added later are:
 - Offline access
 - Improved mobile interface
 
+## Project Screenshots
+
+### Login and Registration
+![Login Screen](login-screen.jpg)
+
+### Plan Your Journey
+![Plan Your Journey](plan-journey.jpg)
+
+### Journey Categories
+![Journey Categories](journey-categories.jpg)
+
+### Hotel Recommendations
+![Hotel Recommendations](hotel-screen.jpg)
+
+## System Design
+
+### Use Case Diagram
+![Use Case Diagram](use-case-diagram.jpg)
+
+### UML Class Diagram
+![Class Diagram](class-diagram.jpg)
